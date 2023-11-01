@@ -2,6 +2,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 100%;
     height: 600px;
     background-image: url('goku.gif');
     background-size: cover; /* Adjust as needed */
